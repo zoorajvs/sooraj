@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("https://images.unsplash.com/photo-1516557070061-c3d1653fa646?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80") top right no-repeat;
+  background: #040404 url("https://images.unsplash.com/photo-1475257026007-0753d5429e10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
